@@ -9,9 +9,9 @@ I'm a passionate **[Software Developer/ Front-end]** with experience in **[HTML,
 - 🌍 Languages: **[programming languages - HTML, CSS, JAVASCRIPT, BOOTSTRAP, REACT, TAILWIND, DJANGO]**
 - 📫 How to reach me: **[email - mithuncsesist1923@gmail.com]**
 
-## My Skills 🧠
+## 🧠 My Skills 🧠
 
-## Front-End Techs💡💡
+## 💡Frontend Techs
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -20,7 +20,7 @@ I'm a passionate **[Software Developer/ Front-end]** with experience in **[HTML,
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## Back-End Techs💡
+## Backend Techs💡
 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
