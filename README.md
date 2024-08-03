@@ -1,7 +1,5 @@
 # Hi there, I'm MITHUN D NAIR 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
 I'm a passionate **[Software Developer/ Front-end]** with experience in **[HTML, CSS, JAVASCRIPT, BOOTSTRAP, REACT, TAILWIND, DJANGO]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
