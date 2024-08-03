@@ -8,7 +8,6 @@ I'm a passionate **[Software Developer/ Front-end]** with experience in **[HTML,
 - 🔭 Working on: **[E-commerce site using React]**
 - 🌍 Languages: **[programming languages - HTML, CSS, JAVASCRIPT, BOOTSTRAP, REACT, TAILWIND, DJANGO]**
 - 📫 How to reach me: **[email - mithuncsesist1923@gmail.com]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
 
